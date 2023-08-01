@@ -1,4 +1,4 @@
-altair==5.0.1
+altair==4.0.0
 attrs==23.1.0
 blinker==1.6.2
 cachetools==5.3.1
@@ -6,6 +6,7 @@ certifi==2023.7.22
 charset-normalizer==3.2.0
 click==8.1.6
 decorator==5.1.1
+entrypoints==0.4
 gitdb==4.0.10
 GitPython==3.1.32
 idna==3.4
@@ -43,4 +44,5 @@ tzdata==2023.3
 tzlocal==5.0.1
 urllib3==2.0.4
 validators==0.20.0
+watchdog==3.0.0
 zipp==3.16.2
