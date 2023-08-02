@@ -1,4 +1,5 @@
 import streamlit as st
+st.set_page_config(page_title="My Page Title", page_icon="👋")
 
 def main():
     st.title("AutiVisi∞n")
