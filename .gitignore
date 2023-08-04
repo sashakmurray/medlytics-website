@@ -1,3 +1,6 @@
 .venv/
 .DS_Store
+venv/
+molecule.smi
+descriptors_output.csv
 
